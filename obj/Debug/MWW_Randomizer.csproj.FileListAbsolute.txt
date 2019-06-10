@@ -1,0 +1,10 @@
+C:\Users\Nathan\source\repos\MWW_Randomizer\MWW_Randomizer\bin\Debug\MWW_Randomizer.exe.config
+C:\Users\Nathan\source\repos\MWW_Randomizer\MWW_Randomizer\bin\Debug\MWW_Randomizer.exe
+C:\Users\Nathan\source\repos\MWW_Randomizer\MWW_Randomizer\bin\Debug\MWW_Randomizer.pdb
+C:\Users\Nathan\source\repos\MWW_Randomizer\MWW_Randomizer\obj\Debug\MWW_Randomizer.csprojAssemblyReference.cache
+C:\Users\Nathan\source\repos\MWW_Randomizer\MWW_Randomizer\obj\Debug\MWW_Randomizer.Form1.resources
+C:\Users\Nathan\source\repos\MWW_Randomizer\MWW_Randomizer\obj\Debug\MWW_Randomizer.Properties.Resources.resources
+C:\Users\Nathan\source\repos\MWW_Randomizer\MWW_Randomizer\obj\Debug\MWW_Randomizer.csproj.GenerateResource.cache
+C:\Users\Nathan\source\repos\MWW_Randomizer\MWW_Randomizer\obj\Debug\MWW_Randomizer.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\MWW_Randomizer\MWW_Randomizer\obj\Debug\MWW_Randomizer.exe
+C:\Users\Nathan\source\repos\MWW_Randomizer\MWW_Randomizer\obj\Debug\MWW_Randomizer.pdb
