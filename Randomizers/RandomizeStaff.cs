@@ -16,7 +16,7 @@ namespace MWW_Randomizer.Randomizers
             "staff_crafted_basic_lightning,staff_crafted_basic_shield,staff_crafted_basic_speed,staff_crafted_basic_water,staff_crafted_fancy_death," +
             "staff_crafted_fancy_earth,staff_crafted_fancy_fire,staff_crafted_fancy_health,staff_crafted_fancy_ice,staff_crafted_fancy_life," +
             "staff_crafted_fancy_lightning,staff_crafted_fancy_shield,staff_crafted_fancy_speed,staff_crafted_fancy_water,staff_crook,staff_cultist,staff_curse,staff_death," +
-            "staff_default,staff_diamond,staff_earth,staff_ember,staff_epic,staff_excelsior_line,staff_fancyshield,staff_fire,staff_fire_hydrant,staff_flaming_steps," +
+            "staff_default,staff_diamond,staff_earth,staff_ember,staff_epic,staff_excelsior_line,staff_fancyshield,staff_fire,staff_fire_hydrant," +
             "staff_fork,staff_founders_cane,staff_frost,staff_grey_wizard,staff_headmaster,staff_iron,staff_knight,staff_lantern,staff_life,staff_lightning,staff_lightning_rod," +
             "staff_mace,staff_magma,staff_marble,staff_mayhem,staff_mistletoe,staff_moon,staff_octopus,staff_parrot,staff_platypus,staff_pumpkin,staff_razor,staff_runners_stick," +
             "staff_shield,staff_snowflake,staff_snowman,staff_tesla,staff_valkyrie,staff_water,staff_yggdrasil").Split(',');
